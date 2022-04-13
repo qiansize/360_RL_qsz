@@ -1,9 +1,0 @@
-*~
-__pycache__
-*.log
-video_2/
-.idea/
-.pytest_cache/
-output/
-plot/
-dataset/
